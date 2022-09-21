@@ -134,7 +134,7 @@ followed by the comment. Here is what the resulting elements will look like:
 </div>
 ```
 
-![component article comment example](https://curriculum-content.s3.amazonaws.com/react/component-article-comment-example.png)
+<!-- ![component article comment example](https://curriculum-content.s3.amazonaws.com/react/component-article-comment-example.png)
 
 This unpacks logically. The `App` component (being our top level component)
 wraps around both `Article` and `Comment`, and we already know what they look
@@ -142,7 +142,7 @@ like when they are turned into HTML.
 
 As you may expect, we refer to the `App` component as both the `Comment` and
 `Article` component's _parent_ component. Inversely, we refer to `Comment` and
-`Article` as _children_ components of `App`.
+`Article` as _children_ components of `App`. -->
 
 ## Naming Components
 
